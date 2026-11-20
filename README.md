@@ -1,6 +1,6 @@
 ### 👋 Welcome to my GitHub Portfolio!
 
-Here you will find a collection of my technical projects, automation scripts, API integrations, and data pipelines.
+Here you will find a collection of my technical projects.
 
 🎥 **Video Demos & Walkthroughs**  
 Want to see my integrations, workflows, and setups in action? Check out my Loom page for video walkthroughs and demos:  
