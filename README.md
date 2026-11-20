@@ -1,4 +1,10 @@
-## Hi there 👋
+### 👋 Welcome to my GitHub Portfolio!
+
+Here you will find a collection of my technical projects, automation scripts, API integrations, and data pipelines.
+
+🎥 **Video Demos & Walkthroughs**  
+Want to see my integrations, workflows, and setups in action? Check out my Loom page for video walkthroughs and demos:  
+👉 **[Watch my demo videos on Loom]([https://www.loom.com/share/JOUW-LINK](https://loom.com/share/folder/445fb82a1e734bafa0135e97911bfe7c))**
 
 <!--
 **AksjajM/AksjajM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
